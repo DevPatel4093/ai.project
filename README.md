@@ -15,11 +15,11 @@ The solver uses a backtracking algorithm and provides a clean, easy-to-run inter
 ---
 
 ## 📂 Project Structure
-
+```
 SUDOKU/
-
-└── SUDOKU.py
-
+├── SUDOKU.py
+└── README.md
+```
 ## 🧠 Algorithm Used
 
 ✔ Backtracking Search
